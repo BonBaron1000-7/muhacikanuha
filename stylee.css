@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 188, 235);
+}
+
+li {
+     color:aqua
+    font-size 27px
+}
+
+h3 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(35, 185, 67);
+   font-size: 24px;
+   font-style:oblique;
+   font-weight:200;
+   text-align:center;
+   text-transform:capitalize;
+   text-shadow:rgb(0, 0, 0) 3px 2px 2px;
+
+   
+}
+
+li {
+    color:rgb(99, 20, 145);
+    text-indent: 25px;
+    border:3px solid rgb(57, 243, 1); 
+    /* border-width: 3px;
+    border-style:solid;
+    border-color:darkgoldenrod;
+     */
+}

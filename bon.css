@@ -1,0 +1,29 @@
+.cun {
+    display:inline-block;
+    border:rgb(65, 46, 48) 5px solid;
+}
+
+
+#magic {
+    max-width: 350px;
+}
+
+
+
+.bon {
+    display:inline-block;
+    border:rgb(65, 46, 48) 5px solid;
+    background: linear-gradient(55deg, #fbff00, #ff0000);
+    margin:10 px;
+}
+
+
+.boroda {
+    display:inline-block;
+    background: linear-gradient(55deg, #246e12, #00ccff);
+    color:rgb(0, 4, 255);
+    padding:15px;
+    margin:10px; 
+}
+
+
